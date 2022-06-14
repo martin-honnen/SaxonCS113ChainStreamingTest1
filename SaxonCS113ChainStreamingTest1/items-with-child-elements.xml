@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<item>
+		<id>item1</id>
+		<category>category 1</category>
+		<producer>producer 1</producer>
+	</item>
+	<item>
+		<id>item2</id>
+		<category>category 1</category>
+		<producer>producer 2</producer>
+	</item>
+	<item>
+		<id>item3</id>
+		<category>category 1</category>
+		<producer>producer 1</producer>
+	</item>
+	<item>
+		<id>item4</id>
+		<category>category 1</category>
+		<producer>producer 2</producer>
+	</item>
+	<item>
+		<id>item5</id>
+		<category>category 2</category>
+		<producer>producer 1</producer>
+	</item>
+	<item>
+		<id>item6</id>
+		<category>category 1</category>
+		<producer>producer 1</producer>
+	</item>
+	<item>
+		<id>item6</id>
+		<category>category 2</category>
+		<producer>producer 1</producer>
+	</item>
+</items>

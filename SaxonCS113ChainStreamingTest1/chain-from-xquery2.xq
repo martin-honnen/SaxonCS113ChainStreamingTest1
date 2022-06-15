@@ -6,7 +6,7 @@ declare option output:indent 'yes';
 
 transform(
   map {
-    'source-location' : 'items-with-child-elements.xml',
+    'source-node' : doc('items-with-child-elements.xml'),
     'stylesheet-location' : 'child-elements-to-attributes.xsl'
   }
 )?output 
